@@ -3,9 +3,9 @@
 This project is a Generative AI-powered Q&A application that processes documents and answers user queries based on their content using LangChain, OpenAI API, and Vector Databases.
 
 🛠️ Tech Stack
-Python
-LangChain
-OpenAI API (Embeddings & GPT)
+Python,
+LangChain,
+OpenAI API (Embeddings & GPT),
 ChromaDB / FAISS (Vector Database)
 
 📂 Project Workflow
