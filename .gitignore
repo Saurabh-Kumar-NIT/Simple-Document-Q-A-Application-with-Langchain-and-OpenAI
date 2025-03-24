@@ -1,3 +1,10 @@
+echo venv/ > .gitignore
+echo .env >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pyc >> .gitignore
+echo *.pkl >> .gitignore
+echo *.h5 >> .gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
